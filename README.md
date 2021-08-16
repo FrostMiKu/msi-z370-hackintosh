@@ -21,6 +21,11 @@ MSI z370 oc gaming & i5 8600k 感谢 [@ShawLocke](https://github.com/ShawLocke) 
 
 - 2020.4.03 支持 10.15.4
 
+## Usage
+
+1. 先使用通用系统镜像安装 macOS （推荐黑果小兵的镜像）
+2. 待系统安装完成后将本EFI替换进去
+
 ## settings
 
 型号已经选好，请自己生成 SMBIOS。
